@@ -138,6 +138,6 @@ session_start();
                     navigation.style.display = "block";
                 }
             }
-    </script>
+        </script>
     </body>
 </html>
